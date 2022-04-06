@@ -1,0 +1,20 @@
+****************************************************
+****************** appMatricula*********************
+
+La actividada a realizar se encuentra en la sección Matricula
+, la visualizacion de la tabla de los estudiantes matriculados
+se encuentra el sección de información para acceder a esa
+vista o página, sino de la otra forma para ir es en la 
+misma parte de la sección de Matricula se encuntra el botón
+"Lista Alumnos", de ahi se dirige a la página de la tabla.
+
+Es ese sección misma se realizo para ingresar datos del 
+estudiante, usando el método de __POST para enviar la 
+información para insertar, en la clase matricula esta el query de insert
+y el select de la tabla en el controlador va estar la obtención de los datos
+del modelo.
+
+*********************************************************************************
+*********************************************************************************
+Grupo: Byron Ramirez
+       José Rosero
